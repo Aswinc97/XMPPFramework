@@ -1,6 +1,8 @@
 #import <Foundation/Foundation.h>
 
-@import KissXML;
+// @import KissXML;
+#import "KissXML.h"
+
 NS_ASSUME_NONNULL_BEGIN
 @protocol XMPPParserDelegate;
 @interface XMPPParser : NSObject

@@ -1,5 +1,6 @@
 #import "XMPPStringPrep.h"
-@import libidn;
+// @import libidn;
+#import "libidn.h"
 
 
 @implementation XMPPStringPrep
