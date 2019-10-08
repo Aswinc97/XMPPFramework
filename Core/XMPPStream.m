@@ -4288,7 +4288,7 @@ enum XMPPStreamConfig
 				completionHandler(YES);
 			}
 			else {
-				completionHandler(YES);
+				completionHandler(NO);
 			}
 		});
 	}
